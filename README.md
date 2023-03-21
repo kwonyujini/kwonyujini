@@ -1,16 +1,28 @@
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=scaleIn)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=kwonyujini)]
+(https://github.com/kwonyujini)
+
+
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
+---
 
-<!--
-**kwonyujini/kwonyujini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**굵게** <br>
+*이텔릭체* <br>
+~~취소선긋기~~ <br>
 
-Here are some ideas to get you started:
+* 1번
+* 2번
+* 3번
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[네이버](https://www.naver.com)
+
+```
+print("인공지능 부트캠프입니다")
+```
+:smirk:
+:joy:
+:rage:
